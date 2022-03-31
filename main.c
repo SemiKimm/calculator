@@ -1,10 +1,16 @@
+/**
+* v 1.0
+*/
+
+
 #include <stdio.h>
 
 int add(int, int);
 int sub(int, int);
 int div(int, int);
 int multi(int, int);
-//add 차례
+
+//충돌 연습22
 int main(int argc, char* argv[])
 {
     int a, b, c;
@@ -50,4 +56,4 @@ int div(int a, int b)
 {
 	//TODO implementation
 	return 0;
-}
+}//덮어쓰기33??
