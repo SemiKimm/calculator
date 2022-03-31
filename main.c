@@ -4,7 +4,8 @@ int add(int, int);
 int sub(int, int);
 int div(int, int);
 int multi(int, int);
-//add 차례
+
+//충돌 연습22
 int main(int argc, char* argv[])
 {
     int a, b, c;
