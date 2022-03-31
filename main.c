@@ -2,10 +2,9 @@
 * v 1.0
 */
 
-//hhhhhhhhh
+
 #include <stdio.h>
 
-gggggggg
 int add(int, int);
 int sub(int, int);
 int div(int, int);
