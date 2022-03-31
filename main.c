@@ -5,6 +5,7 @@ int sub(int, int);
 int div(int, int);
 int multi(int, int);
 
+//충돌 연습22
 int main(int argc, char* argv[])
 {
     int a, b, c;
