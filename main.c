@@ -4,7 +4,7 @@ int add(int, int);
 int sub(int, int);
 int div(int, int);
 int multi(int, int);
-
+//add 차례
 int main(int argc, char* argv[])
 {
     int a, b, c;
